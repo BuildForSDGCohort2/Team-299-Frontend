@@ -1,5 +1,6 @@
 # kyakula App - Your online farm store
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/48f7c06b8f0b4a048a3498d0a379a6e6)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-299-Group-A-kyakulya?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-299-Group-A-kyakulya&utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4619c2b6595a4e91bcf3fcd0f0cdedef)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-299-Frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-299-Frontend&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
